@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">gestures</string>
     <string name="hello">Hello World!</string>
+    <string name="gestures">Show: %1$e</string>
 </resources>
